@@ -94,7 +94,7 @@ function getPasswordLength() {
 
     var numericLength = +lengthOfPassword;
 
-    if (numericLength < 8) {
+    if (numericLength < 8 || isNaN(numericLength)) {
       alert("The password must have a minimum of 8 characters. Please try again.");
     } else {
       return numericLength;
