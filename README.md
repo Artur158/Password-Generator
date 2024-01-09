@@ -40,5 +40,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-![ScreenShot](../Password-Generator/generator.png);
+![ScreenShot](https://github.com/Artur158/Password-Generator/blob/main/generator.png);
 
+<a href="(https://github.com/Artur158/Password-Generator/blob/main/generator.png)"><img src="../Password-Generator/generator.png></img></a>
