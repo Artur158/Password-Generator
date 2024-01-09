@@ -40,8 +40,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-![ScreenShot](desktop/generator)
- <p>
-<img src="../Password-Generator/generator.png" ;
+![ScreenShot](../Password-Generator/generator.png);
 
- </p>
