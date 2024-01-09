@@ -3,6 +3,9 @@ Website with JavaScript that allows to generate random passwords for the users
 
 This JavaScript application generates a random password based on user preferences for length and character types
 
+Link to running application: 
+https://artur158.github.io/Password-Generator/
+
 Features
 
 -Customizable Password Length: Allows the user to specify the desired length of the password (minimum length: 8 characters).
@@ -34,3 +37,11 @@ Technology Used
 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+![ScreenShot](desktop/generator)
+ <p>
+<img src="../Password-Generator/generator.png" ;
+
+ </p>
